@@ -8,7 +8,14 @@ module.exports = {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/master/themes/gatsby-theme-cara/gatsby-config.js
+    siteTitle: `Loapu`,
     siteTitleAlt: `Loapu - Portfolio Home`,
+    siteHeadline: `Loapu - Portfolio Home`,
+    siteUrl: `https://loapu.dev`,
+    siteDescription: `Portfolio Home of Loapu Developments`,
+    siteLanguage: `en`,
+    siteImage: `/banner.jpg`,
+    author: `@LoapuDEV`,
   },
   plugins: [
     {
