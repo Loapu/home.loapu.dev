@@ -1,0 +1,88 @@
+==================================================================
+https://keybase.io/loapu
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://loapu.dev
+  * I am loapu (https://keybase.io/loapu) on keybase.
+  * I have a public key with fingerprint 3B56 329C F9E0 FF54 390B  A6AB B663 33A7 93C6 313B
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01203c9f3908f1c336886c7edbb25779b541d2ed0dea08f00530aa4a4824abefe9670a",
+      "fingerprint": "3b56329cf9e0ff54390ba6abb66333a793c6313b",
+      "host": "keybase.io",
+      "key_id": "b66333a793c6313b",
+      "kid": "0101ba687a6649ce65477d1d2083f5933656222150bfbefc84b9d45b7959413b5d220a",
+      "uid": "94a581cbd99829c64d9f964844404e19",
+      "username": "loapu"
+    },
+    "merkle_root": {
+      "ctime": 1647335199,
+      "hash_meta": "25ad36b613b50e120f9d72a7cf332f0605abbea82daf722fc947e651a39cf86d",
+      "seqno": 22084570
+    },
+    "revoke": {
+      "sig_ids": [
+        "a67dbbe437b37b5e7df9357471ce6319d076f543f31974b9190ed4c8d6fc8be10f"
+      ]
+    },
+    "service": {
+      "hostname": "loapu.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1647335166,
+  "expire_in": 157680000,
+  "prev": "386ab9e329b1b49b1b9a1ccb578f7abbd3402e3814d989e82112b82dca9bd7cb",
+  "seqno": 35,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMP3AnicbZMNbBRFFMevCoWeNFQCJVIVshIoTSm7O7MzOwcIIQShotWmtFAKx8zu
+bLu0d3u92zuopHwEDGKpUA0fKVIElJIgTYSEyIe0BQIkRRupiJq0KH5BwBQBwUJT
+nG0kGuNms5/v/d9/fu/NmdQnff6kIwZofO+sMjmp7VRl3Mfkwr4VEnPMKimwQirn
+/TdeYfKYGyy3TSkgyYoqA4NYgMi6pRgAIF1HBuYmY6qGMWEaVEyVm7LJqYiQZQ3I
+lEIKdRVSxi1OEJaplC1ZdriURyNRO+wKWcA0BFRiWITLlqVBIc8ooowhBACgmAAD
+AQUwkVjmxLwMYY7RGM+xHfFNvAT77f1P/GPfsiIUdUwRgsTgSIMYm8KqrANLI2Id
+GlJVVdFkZgmbhg4ZMaHGMNEIFEKaqar9vuP9cgRSTVcMZhKiC9sImsQiCOoQQhly
+hXiBMR4N0xAX0RUOjcSl6mwpxKPlFTwYdRzXI2u4tvdfQRADoCmEiNXRWFkwxF0q
+0lSNmgAx5JWXuQBvEROrFBsWAKolI1kTgDjVVZNaWFUtg0AsFqZQIEDqyBQmYrwy
+7EgB4V2HGpaFhShPOOXcqx6zSwW0mBRYKFGERQM5BJiJU+PYtAjQMMSKIAUUYsoY
+eV2xxDMWZBQicxMauokEKcYV2ZIWVXvVognb6Bf3uvTv1eeYPCH8RKKO6xhOhfhc
+5rqRWMCj4lZFvLhlnAX/VggyO2yKAREZCR6N2U5YUBKR/wGGULbEl0fsKA/aXoSG
+kS6Lw6sjyomx0sUMES4miykMehdCFcNgGtYtLOCZAMoqB7oi+qcTrquKojLB06CE
+mdhg/xAEmvBJS4WmwBambjzKpepTrSUDfEl+X/LAJ7yd4/OnpD3eT3XpQx/NrOxN
+3lXYzptvLPXVrylrb7qXduHm5CaU93BoR74y/fKMgsUTf7vhyCWXuy5m+de/oilq
+ScuYWa3W9cz0zmWpXSOV1LrW1EjDoOLUr1rS5k4bcJTltVzZ3rrp90BG36sv1I2b
+lNabOHlv1pKF3znxhh3frv357tF9KXs67vdmrH9p2N7XewaPOlw+ck30wwkVnzVk
+9e7tGXM2/kXxoe6tG9zbbxd9va4rq7qrcfPlwMTrs/dHOm/nTyUPh9RJtffeObd0
+0B9u5p78Yc0Hl27fc7ymY+DY0Pm8nuLhRQ1flsJ9weNuV8qARTWlO2uL23pbJpX8
+lHRyBz88pGTb7vn2iLMf5zbfr/fVdZ579P6g/Iy2pz/dVwf6fvw+OIFMPZSTfVWa
+2DyjKp6+s/tBS2jexdaim9flE6v/TI48N+zW8Lwj/jO/9uR+NG7E1dohbM6SO5lb
+79yqT6148akHGU01N0Idt2qPXxx9+m7O5oIpib55H2zbZO/yHz29vyirs3RsfQo4
+VlNSYC83Vq3MGPzyyh+uXcutLtsYmZ27fPb9Mbu7bzea6Y/mrLvA3SPjL31ybMbB
+sJE75Zdu/7vjkwvzZ26pUp8vHLpkcWDv3QP+lc80Ljhds2Ze7muVDTDl0PlQ04nP
+J6waf3jBqLfWHWCNbW/Mv5aYcikycm2Bm2iftejZM1sMa3TalcwNw6eTb64Y0tz2
+1W9emPYXJ1H6gw==
+=2gMU
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/loapu
+
+==================================================================
